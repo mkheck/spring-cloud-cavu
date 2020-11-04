@@ -1,0 +1,17 @@
+= Spring Cloud CAVU
+Meta repository for session/workshop: _Spring Cloud: Ceiling And Visibility Unlimited_
+
+== Component repos
+
+* link:https://github.com/mkheck/fb-config[Configuration]
+* link:https://github.com/mkheck/fb-config-service[Spring Cloud Config service]
+* link:https://github.com/mkheck/fb-eureka-service[Eureka service registry]
+* link:https://github.com/mkheck/fb-aircraft-service[Aircraft (backing) service]
+* link:https://github.com/mkheck/fb-report-service[Report (consuming) service]
+* link:https://github.com/mkheck/fb-gateway-service[Spring Cloud Gateway]
+
+== Contact information
+
+* Mark Heckler
+* @mkheck
+* mark.heckler@gmail.com
